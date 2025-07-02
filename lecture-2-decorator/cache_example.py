@@ -66,3 +66,4 @@ fib_number_cached(35)
 end_time = time.time()
 print("C кэшом:",end_time - start_time)
 
+#blyat' zaebala eta ebatoria
